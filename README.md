@@ -1,6 +1,6 @@
 # Storage Lockers
 
-A simple storage locker script for FiveM - **QBCore framework only!**
+A simple storage locker script for FiveM - **Qbox framework only!**
 
 ## Description
 
@@ -11,11 +11,11 @@ This resource adds functional storage lockers to your server, allowing players t
 - Multiple storage locker locations
 - Configurable storage capacity (slots and weight)
 - Ox_lib integration for smooth UI interactions
-- QBCore inventory compatibility
+- Ox inventory compatibility
 
 ## Dependencies
 
-- [QBCore Framework](https://github.com/qbcore-framework/qb-core)
+- [Qbox Framework](https://github.com/Qbox-project/qbx_core)
 - [ox_lib](https://github.com/overextended/ox_lib)
 
 ## Installation
